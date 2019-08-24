@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Growl.wav</SourceFile>
+  <SourceTime>2019-08-23T18:48:39.9376314-05:00</SourceTime>
+  <DestFile>C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Growl.xnb</DestFile>
+  <DestTime>2019-08-23T18:51:45.0321821-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

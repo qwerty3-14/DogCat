@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Arrow.png</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Bark.wav</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Cat.png</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Cursor.png</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Dog.png</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Grass.png</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Growl.wav</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Meow.wav</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Panic.wav</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/UI.png</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/WoofWoof.wav</File>
+    <File>C:/Users/noahg/source/repos/DogCat/DogCat/Content/Zoey.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

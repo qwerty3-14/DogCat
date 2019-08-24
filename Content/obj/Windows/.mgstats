@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Arrow.png","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Arrow.xnb","TextureProcessor","Texture2DContent",276,9301,0.1655465
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Bark.wav","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Bark.xnb","SoundEffectProcessor","SoundEffectContent",61556,61545,0.8535281
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Cat.png","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Cat.xnb","TextureProcessor","Texture2DContent",336,2197,0.3370524
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Cursor.png","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Cursor.xnb","TextureProcessor","Texture2DContent",156,569,0.1336848
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Dog.png","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Dog.xnb","TextureProcessor","Texture2DContent",345,4501,0.0149184
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Grass.png","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Grass.xnb","TextureProcessor","Texture2DContent",531,36949,0.0159121
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Growl.wav","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Growl.xnb","SoundEffectProcessor","SoundEffectContent",294112,294101,0.2174512
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Meow.wav","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Meow.xnb","SoundEffectProcessor","SoundEffectContent",139380,139369,0.2114368
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Panic.wav","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Panic.xnb","SoundEffectProcessor","SoundEffectContent",356064,356053,0.2239195
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/UI.png","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/UI.xnb","TextureProcessor","Texture2DContent",633,92245,0.6658084
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/WoofWoof.wav","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/WoofWoof.xnb","SoundEffectProcessor","SoundEffectContent",118900,118889,0.2113143
+"C:/Users/noahg/source/repos/DogCat/DogCat/Content/Zoey.png","C:/Users/noahg/source/repos/DogCat/DogCat/Content/bin/Windows/Zoey.xnb","TextureProcessor","Texture2DContent",252,2197,0.01496
